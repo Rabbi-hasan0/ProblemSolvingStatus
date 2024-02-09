@@ -11,7 +11,6 @@
 | CSES | [Rabbi-Hasan162](https://cses.fi/user/171518) | 30+ |
 | Vjudge | [Rabbi_Hasan01](https://vjudge.net/user/Rabbi_Hasan01) | 350+ |
 | HackerRank | [Rabbi Hasan-162](https://www.hackerrank.com/profile/imrabbihasan1) | 10+ |
-
 | Total | | 1100+ |
 
 Last Updated: 10 February, 2024
